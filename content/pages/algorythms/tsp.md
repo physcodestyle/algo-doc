@@ -1,7 +1,7 @@
 ---
 title: Задача Коммивояжёра
 date: Last Modified
-permalink: /article/TSP/index.html
+permalink: /algorythms/tsp/index.html
 eleventyNavigation:
     key: TSP
     order: 1
