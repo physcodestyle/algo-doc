@@ -1,8 +1,6 @@
 ---
 title: Чарльз Энтони Ричард Хоар
-section: hoare
-date: Last Modified
-permalink: /hoare/index.html
+permalink: authors/hoare/index.html
 eleventyNavigation:
     key: hoare
     order: 0
