@@ -1,10 +1,6 @@
 ---
 title: Уильям Роуэн Гамильтон
 permalink: authors/hamilton/index.html
-eleventyNavigation:
-    key: hamilton
-    order: 0
-    title: Уильям Роуэн Гамильтон
 ---
 
 ### Профессиональная биография:
