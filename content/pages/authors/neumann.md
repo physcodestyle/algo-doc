@@ -32,7 +32,7 @@ permalink: /authors/neumann/index.html
 ## Особые работы Джона фон Неймана 
 
 Фон Нейман был основателем многих теорий, таких как Эргодическая теория, теория операторов, теория решеток, теория игр и теория мер, а также раздел геометрии, известный как непрерывная геометрия и алгебры Фон Неймана.
-"Теория игр и экономического поведения", которую Нейман написал в соавторстве с экономистом Оскаром Моргенштерном, является, однако, его самой значительной работой. Книга, опубликованная в 1944 году, создала междисциплинарное исследовательское поле теории игр. Эта работа была основана на исследовательской работе Неймана 1928 года "О теории салонных игр".
+"Теория игр и экономического поведения", которую Нейман написал в соавторстве с экономистом Оскаром Моргенштерном, является, однако, его самой значительной работой. Книга, [опубликованная](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2397-2335.1944.tb01625.x) в 1944 году ([переиздана](https://press.princeton.edu/books/paperback/9780691130613/theory-of-games-and-economic-behavior) в 2007), создала междисциплинарное исследовательское поле теории игр. Эта работа была основана на исследовательской работе Неймана 1928 года "О теории салонных игр".
 
 ## Награды
 
@@ -44,6 +44,6 @@ permalink: /authors/neumann/index.html
 
 ## Список источников: 
 
-+ "John Von Neumann and the Origins of Modern Computing", William Aspray
-+ "John Von Neumann", Norman Macrae
-+ https://www.thefamouspeople.com/profiles/john-von-neumann-481.php
+1. ["John Von Neumann and the Origins of Modern Computing", William Aspray](https://mitpress.mit.edu/books/john-von-neumann-and-origins-modern-computing)
+2. ["John Von Neumann", Norman Macrae](https://www.maa.org/press/maa-reviews/john-von-neumann-the-scientific-genius-who-pioneered-the-modern-computer-game-theory-nuclear)
+3. [John von Neumann Biography](https://www.thefamouspeople.com/profiles/john-von-neumann-481.php)
