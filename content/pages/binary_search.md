@@ -1,5 +1,5 @@
-title: Алгоритм Дейкстры 
-permalink: /article/dijkstra/index.html
+title: Бинарный поиск
+permalink: /article/binary_search/index.html
 ---
 
 ## Область применения
