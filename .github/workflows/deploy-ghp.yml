@@ -3,7 +3,7 @@ name: Публикация сайта на GitHub Pages
 on:
   push:
     branches:
-      - feature/publishing-github-pages
+      - main
 
 jobs:
   deploy:
@@ -25,8 +25,7 @@ jobs:
       - name: Установка модулей
         run: npm ci
       - name: Сборка сайта
-        run: |
-          npm run build
+        run: npm run build
       - name: Публикация сайта
         uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
