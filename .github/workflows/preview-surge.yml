@@ -7,8 +7,10 @@ jobs:
   preview:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: afc163/surge-preview@v1
+      - name: Загрузка контента
+        uses: actions/checkout@v2
+      - name: Сборка и публикация превью сайта на Surge
+        uses: afc163/surge-preview@v1
         id: preview_step
         with:
           surge_token: ${{ secrets.SURGE_TOKEN }}
@@ -17,5 +19,5 @@ jobs:
           build: |
             npm ci
             npm run build
-      - name: Get the preview_url
-        run: echo "url => ${{ steps.preview_step.outputs.preview_url }}"
+      - name: Отображение сообщения в интерфейсе GitHub Actions
+        run: echo "Ссылка на превью ${{ steps.preview_step.outputs.preview_url }}"
