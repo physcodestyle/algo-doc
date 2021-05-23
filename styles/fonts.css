@@ -1,0 +1,35 @@
+/* Fira Sans Light */
+@font-face {
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url("/fonts/FiraSans-Light.woff2")format("woff2");
+}
+
+/* Fira Sans Bold*/
+@font-face {
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url("fonts/FiraSans-Bold.woff2")format("woff2");
+}
+
+/* Fira Sans Italic */
+@font-face {
+    font-family: "Fira Sans";
+    font-style: italic;
+    font-weight: normal;
+    font-display: swap;
+    src: url("fonts/FiraSans-Italic.woff2")format("woff2");
+}
+
+/* Fira Code Light */
+@font-face {
+    font-family: "Fira Code";
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url("fonts/FiraCode-Light.woff2")format("woff2");
+}
