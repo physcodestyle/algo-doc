@@ -1,11 +1,6 @@
 ---
 title: Ральф Чарльз Меркл
-date: Last Modified
 permalink: authors/merkle/index.html
-eleventyNavigation:
-    key: Merkle
-    order: 1
-    title: Ральф Чарльз Меркл
 ---
 
 ### Профессиональная биография:
