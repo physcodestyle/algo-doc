@@ -1,11 +1,6 @@
 ---
 title: Алгоритм Луна
-date: Last Modified
 permalink: /algorythms/luhn_algorithm/index.html
-eleventyNavigation:
-    key: luhn
-    order: 1
-    title: Алгоритм Луна
 ---
 
 ### Область применения:
